@@ -1,0 +1,10 @@
+div.body p{
+	line-height: 1.6em;
+    margin-bottom: .8em;
+    font-size: 1.2em;
+    color: #333;
+}
+
+div.body dd, div.body li{
+	line-height: 1.4em;
+}
