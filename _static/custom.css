@@ -2,9 +2,23 @@ div.body p{
 	line-height: 1.6em;
     margin-bottom: .8em;
     font-size: 1.2em;
-    color: #333;
+    color: #000;
+}
+.author-desc p{
+	font-size: 1.1em!important;
+    color: #555!important;
+}
+a.footnote-reference {
+    font-size: 0.3em!important;
 }
 
-div.body dd, div.body li{
-	line-height: 1.4em;
+.footnote *{
+	line-height: 1.2em!important;
+	font-size: 1.0em!important;
+	color: #555;
+}
+.subtitle >p{
+	font-style: italic!important;
+	color: #777!important;
+    font-size: 1.1em!important;
 }
