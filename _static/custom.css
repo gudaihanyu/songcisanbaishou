@@ -1,3 +1,6 @@
+body{
+	    font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif;
+}
 div.body p{
 	line-height: 1.6em;
     margin-bottom: .8em;
