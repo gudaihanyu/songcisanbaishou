@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sc'
+project = '宋词三百首'
 copyright = ''
-author = 'd'
+author = '上彊村民'
 
 
 # -- General configuration ---------------------------------------------------
